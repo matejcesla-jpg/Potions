@@ -1,0 +1,5 @@
+name: PotionLimits
+version: 1.0.0
+main: cz.mteus.potionlimits.PotionLimits
+api-version: '1.21'
+description: Potion and bundle limits, plus dortcz cake drop
